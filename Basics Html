@@ -11,18 +11,18 @@
                 }
                 p1{
                     color:rgb(27, 253, 7);
-                    font-size: 20px;
-                    height:20px
+                    font-size: 30px;
+                    height:30px
                 }
                 h2{
                     height:20px;
                     color:blueviolet;
-                    font-size: 32px;
+                    font-size: 60px;
                 }
                 p2{
                     height:20px;
                     color: rgb(27, 253, 7);
-                    font-size: 20px;
+                    font-size: 30px;
                 }
             </style>
         </head>
@@ -37,11 +37,11 @@
                 Description
             </h2>
             <p2>
-A Fine Arts Club is a creative haven that brings together individuals passionate about various forms
-of artistic expression. It serves as a vibrant community where members can explore, learn, and share
-their love for the fine arts. Typically found in schools, communities, or even professional settings,
-fine arts clubs play a crucial role in nurturing artistic talents and fostering a deep appreciation for
-the diverse world of art.
+                A Fine Arts Club is a creative haven that brings together individuals passionate about various forms
+                of artistic expression. It serves as a vibrant community where members can explore, learn, and share
+                their love for the fine arts. Typically found in schools, communities, or even professional settings,
+                fine arts clubs play a crucial role in nurturing artistic talents and fostering a deep appreciation for
+                the diverse world of art.
 
             </p2>
             <img src="c:\Users\shiva\Desktop\java\WebDevelopment\img fine.jpg" width="800" height="500">
