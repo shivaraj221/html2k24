@@ -1,0 +1,49 @@
+<Doctype html>
+    <html>
+        <head>
+            <title>Fine Arts Club Cmrit</title>
+            <style>
+                h1{
+                    height:90px;
+                    color: rgb(174, 12, 214);
+                    font-family: 'Bold',sans-serif;
+                    font-size: 90px;
+                }
+                p1{
+                    color:rgb(27, 253, 7);
+                    font-size: 20px;
+                    height:20px
+                }
+                h2{
+                    height:20px;
+                    color:blueviolet;
+                    font-size: 32px;
+                }
+                p2{
+                    height:20px;
+                    color: rgb(27, 253, 7);
+                    font-size: 20px;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>
+                Fine Arts Club Cmrit
+            </h1>
+            <p1>
+                A fine arts club is a creative and enriching space where individuals with a passion for various forms of artistic expression come together to share, learn, and create. Whether in a school, community, or professional setting, fine arts clubs play a vital role in fostering artistic appreciation and skill development. Here's some content that might be relevant for a fine arts club
+            </p1>
+            <h2>
+                Description
+            </h2>
+            <p2>
+A Fine Arts Club is a creative haven that brings together individuals passionate about various forms
+of artistic expression. It serves as a vibrant community where members can explore, learn, and share
+their love for the fine arts. Typically found in schools, communities, or even professional settings,
+fine arts clubs play a crucial role in nurturing artistic talents and fostering a deep appreciation for
+the diverse world of art.
+
+            </p2>
+            <img src="c:\Users\shiva\Desktop\java\WebDevelopment\img fine.jpg" width="800" height="500">
+        </body>
+        </html>
