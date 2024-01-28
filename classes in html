@@ -1,0 +1,28 @@
+<Doctype html>
+    <html>
+        <head>
+            <title>classes and Id in html</title>
+            <style type="text/css">
+                .head1{
+                    color:lightcyan;
+                    font-family: cursive;
+                    background-color: aqua;
+                }
+                .head2{
+                    color:lightpink;
+                    background-color: grey;
+                }
+                .head3
+                {
+                    color:lightcyan;
+                    background-color: yellowgreen;
+                }
+            </style>
+        </head>
+        <body>
+            <h1 class="head1">This is heading 1</h1>  //if we put same for head1 for all 'h' we get same color for all//
+            <h2 class="head2">This is heading 2</h2>
+            <h3 class="head3">This is heading 3</h3>
+            <h4 class="head4">This is heading 4</h4>
+        </body>
+        </html>
