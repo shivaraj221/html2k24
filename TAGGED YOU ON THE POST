@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="c:\Users\shiva\Desktop\java\WebDevelopment\CAT.jpeg" alt="cat image" usemap="#image-map">
+    <map name="image-map">
+        <area target="" alt="AMAAN" title="AMAAN" href="" coords="39,133,31" shape="circle">
+        <area target="" alt="PANDU" title="PANDU" href="" coords="234,53,38" shape="circle">
+    </map>
+</body>
+</html>
