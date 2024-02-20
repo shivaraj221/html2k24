@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color:lightblue;">
+    <h1 style="color:red ;font-size: 100px;">"SURPRIZE!"</h1>
+    <img src="c:\Users\shiva\Desktop\java\WebDevelopment\surprize.jpg" alt="Surprize!" width="200px";height="100px"/><br>
+    <button onclick="showContent()" > <h1 style="color: purple;font-size: 30px;"> ----->GIFT!<------ </h1></button>
+    <template>
+    <h2> flabbergast!</h2>
+    <img src="c:\Users\shiva\Desktop\java\WebDevelopment\pig1.jpg" width="214" height="204">
+    </template>
+    <script>
+    function showContent() {
+    let temp = document.getElementsByTagName("template")[0];
+    let clon = temp.content.cloneNode(true);
+    document.body.appendChild(clon);
+    }
+    </script>
+     <video autoplay>
+        <source src="c:\Users\shiva\Desktop\java\WebDevelopment\VN20240101_185604.mp4" type="movie/mp4">
+        <source src="c:\Users\shiva\Desktop\java\WebDevelopment\VN20240101_185604.ogg" type="movie/ogg">
+     </video>
+     
+</body>
+</html>
